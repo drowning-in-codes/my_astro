@@ -464,7 +464,7 @@ console.log(params);
 
 ### useNavigate
 
-编程式导航,而不是使用<Link>或者<NavLink>
+编程式导航,而不是使用`<Link>`或者`<NavLink>`
 
 首先也需要声明路由
 
