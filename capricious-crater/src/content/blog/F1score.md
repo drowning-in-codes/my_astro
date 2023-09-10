@@ -1,3 +1,9 @@
+---
+title: 'F1-score'
+description: '机器学习'
+pubDate: 'Sep 8 2023'
+heroImage: '/placeholder-hero.jpg'
+---
 众所周知,F1-score是通过混淆矩阵算出来的
 
 ![image-20230902095411905](https://s2.loli.net/2023/09/02/uaCN1QkZrLVjElP.png)

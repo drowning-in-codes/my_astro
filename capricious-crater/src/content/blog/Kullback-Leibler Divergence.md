@@ -1,3 +1,9 @@
+---
+title: 'Kullback-Leibler Divergence'
+description: '机器学习'
+pubDate: 'Sep 9 2023'
+heroImage: '/placeholder-hero.jpg'
+---
 # Kullback-Leibler Divergence
 
 Kullback-Leibler散度（通常缩短为KL散度）是一种比较两种概率分布的方法。在概率论和统计学中，我们经常用**更简单的近似分布来代替观察到的数据或复杂的分布。KL散度帮助我们衡量在选择近似值时损失了多少信息。**
