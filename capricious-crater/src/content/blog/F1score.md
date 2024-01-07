@@ -4,8 +4,8 @@ description: '机器学习'
 pubDate: 'Sep 8 2023'
 heroImage: '/placeholder-hero.jpg'
 ---
-众所周知,F1-score是通过混淆矩阵算出来的
 
+众所周知,F1-score是通过混淆矩阵算出来的
 ![image-20230902095411905](https://s2.loli.net/2023/09/02/uaCN1QkZrLVjElP.png)
 
 <img src="https://math.jianshu.com/math?formula=\text {precision} %3D\frac{\text {TP}}{\text {TP}%2B\text {FP}}\\ \text {recall} %3D\frac{\text {TP}}{\text {TP}%2B\text {FN}}" alt="\text {precision} =\frac{\text {TP}}{\text {TP}+\text {FP}}\\ \text {recall} =\frac{\text {TP}}{\text {TP}+\text {FN}}"  />

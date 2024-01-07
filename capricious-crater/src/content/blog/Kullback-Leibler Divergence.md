@@ -4,6 +4,7 @@ description: '机器学习'
 pubDate: 'Sep 9 2023'
 heroImage: '/placeholder-hero.jpg'
 ---
+
 # Kullback-Leibler Divergence
 
 Kullback-Leibler散度（通常缩短为KL散度）是一种比较两种概率分布的方法。在概率论和统计学中，我们经常用**更简单的近似分布来代替观察到的数据或复杂的分布。KL散度帮助我们衡量在选择近似值时损失了多少信息。**
@@ -59,12 +60,8 @@ $$
 
 <img src="https://images.squarespace-cdn.com/content/v1/54e50c15e4b058fc6806d068/1494397981106-SRB7017RCPXJGTZY4WPY/finding-the-optimal-parameter.png" alt="It turns out we did choose the correct approach for finding the best Binomial distribution to model our data" style="zoom: 33%;" />
 
-结果发现p正是在n*p=E(original_data)时,KL最优.
-
-
-
+结果发现p正是在n\*p=E(original_data)时,KL最优.
 如果自己定义一个模型,假设0-5的牙齿数概率相等且和为p,则6-10概率为1-p
-
 有
 $$
 [6,11]=\frac p5;[0,5]=\frac{1-p}6
@@ -77,12 +74,7 @@ KL与信息熵和交叉熵的关系如下
 
 <img src="https://pic3.zhimg.com/80/v2-4eac3ef913ec3745c11618d62b86b07e_720w.webp" alt="img" style="zoom:67%;" />
 
-
-
-
-
 ## 参考资料
-
 1. [Kullback-Leibler Divergence Explained — Count Bayesie](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 
 

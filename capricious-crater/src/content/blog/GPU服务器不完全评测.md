@@ -108,3 +108,10 @@ vast.ai也支持类似autodl无卡机制,可以先把机子stop了(数据会保�
 或者自己下载到本地再传上去,这是最简单也最笨的方法.
 
 目前参照了[如何下载Google Drive中的超大型文件 - Max1z - 博客园 (cnblogs.com)](https://www.cnblogs.com/max1z/p/15982508.html)的方案,话说直接使用vast.ai的服务器就行了,其他服务器就算了,放在那下载数据花钱太多.
+
+```bash
+curl -H "Authorization: Bearer YOUR_ACCESS_TOKEN" https://www.googleapis.com/drive/v3/files/YOUR_FILE?alt=media -o OUTPUT_FILE
+sudo ufw app list
+sudo ufw allow 'Nginx Full'
+```
+
