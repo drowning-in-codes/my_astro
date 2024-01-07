@@ -2,7 +2,7 @@
 title: '论文Idea'
 description: '记录一下看论文或者写论文时的idea'
 pubDate: 'Jan 07 2024'
-heroImage: '/placeholder-hero.jpg
+heroImage: '/placeholder-hero.jpg'
 ---
 
 平时写论文的时候有些想法把这些记录下来.

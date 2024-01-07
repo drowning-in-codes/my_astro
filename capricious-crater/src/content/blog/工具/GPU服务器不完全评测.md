@@ -35,12 +35,9 @@ heroImage: '/placeholder-hero.jpg'
 2. 随时升降配置`开始仅需要1块GPU进行代码调试和性能验证，但是调试完成后为了加速训练需要使用多卡并行`
 3. 不确定自己的代码需要执行多久结束，希望执行完成后立马关机。这类场景可以通过`shutdown` 
 
-
-
 > AutoDL可以通过ssh和jupyter
 >
 > 在代码最后加上os.system('shutdown'),然后使用nohup等命令挂在后台运行，代码运行完就会自动关机停止计费。
-
 
 
 ## 国外
@@ -64,7 +61,6 @@ vast.ai也支持类似autodl无卡机制,可以先把机子stop了(数据会保�
 存储空间支持的云服务商包括DO,亚马逊,还不包括谷歌云盘
 
 ![image-20231025125027673](https://i.imgur.com/ldOrarY.png)
-
 
 
 ### Lambda

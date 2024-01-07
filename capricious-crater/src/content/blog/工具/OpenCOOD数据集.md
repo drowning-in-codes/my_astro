@@ -2,7 +2,7 @@
 title:  'OpenCOOD数据集'
 description: 'OpenCOOD数据集介绍'
 pubDate: 'Oct 7 2023'
-heroImage: '/placeholder-hero.jpg
+heroImage: '/placeholder-hero.jpg'
 ---
 
 OpenCOOD同时支持OPV2V（ICRA2022）和V2XSet（ECCV2022）数据集。
