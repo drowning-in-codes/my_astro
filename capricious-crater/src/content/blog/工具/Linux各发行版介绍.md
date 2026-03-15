@@ -27,14 +27,18 @@ Debian系包括Debian,Ubuntu[企业开源和Linux | Ubuntu](https://cn.ubuntu.co
 
 ### Arch系
 
-包括ArchLinux,Manjaro[Manjaro](https://manjaro.org/)以及Endeavourshttps://endeavouros.com/.
+包括ArchLinux,Manjaro[Manjaro](https://manjaro.org/)以及Endeavourhttps://endeavouros.com/.
 
 后两者推荐新手入门,基于ArchLinux
-
-
 
 此外还有[openSUSE - Linux OS. The makers' choice for sysadmins, developers and desktop users.](https://www.opensuse.org/)等比较推荐的个人使用的os.
 
 服务器还是Debian,Fedora或者Ubuntu吧.
 
 此外还可以看看其他os[2023年10个最受欢迎的Linux发行版 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/633850932)
+
+## 个人使用
+
+个人操作系统如果作为生产稳定使用建议Ubuntu或者基于Ubuntu的Linux Mint,Zorin OS等,如果你激进一点,可以使用Manjaro或者Endeavour.
+
+如果你有充足时间和精力,想要一步成仙,那就使用ArchLinux[Arch Linux](https://archlinux.org/)
